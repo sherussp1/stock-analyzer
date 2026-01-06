@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+yfinance
+pandas
+numpy
+ta
+prophet
+tensorflow
+scikit-learn
+streamlit
